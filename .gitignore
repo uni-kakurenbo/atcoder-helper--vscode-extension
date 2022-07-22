@@ -1,6 +1,9 @@
 # secrets
 .secret
 
+# logo
+*/logo.svg
+
 # Logs
 logs
 *.log
